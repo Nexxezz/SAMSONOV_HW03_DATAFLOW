@@ -59,7 +59,14 @@
     </plugins>
   </build>
 
-
+<repositories>
+  <repository>
+    <id>jcenter</id>
+    <name>jcenter-repo</name>
+    <url>https://jcenter.bintray.com/</url>
+  </repository>
+</repositories>
+    
   <dependencies>
       <!-- ... other dependency elements ... -->
       <dependency>

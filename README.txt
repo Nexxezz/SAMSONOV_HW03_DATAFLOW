@@ -22,5 +22,5 @@ Geocoding API in the pipeline.
 5. Generated geohash by Latitude & Longitude with geohash-java library with 5-charachers length in extra column.
 6. Stored data in Kafka topic:
 6.1 Created hotels-data topic in Kafka;
-6.2Stored data in hotels-data topic with Kafka consumer destination;
-6.3Viewed data from Kafka topic in HDP vconsole(screenshot 29).
+6.2 Stored data in hotels-data topic with Kafka consumer destination;
+6.3 Viewed data from Kafka topic in HDP vconsole(screenshot 29).
